@@ -1,4 +1,3 @@
-<!--hello I am a coment-->
 <?php
 include_once('/var/www/html/hw6/hw6-lib.php');
 include_once('header.php');
